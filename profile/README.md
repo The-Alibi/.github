@@ -53,8 +53,10 @@ flowchart LR
 
 | Repository | Description |
 |---|---|
-| [`backend`](https://github.com/The-Alibi/backend) | 게임 서버 |
-| `frontend` *(예정)* | 웹 클라이언트 |
+| `frontend` 🔒 | 웹 클라이언트 |
+| `backend` 🔒 | 게임 서버 |
+
+> 소스 코드는 현재 비공개로 개발 중입니다.
 
 ## 🛠 Tech Stack
 
